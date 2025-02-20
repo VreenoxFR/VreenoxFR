@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **raf47ve@gmail.com**
+- 📫 How to reach me **raf37ve@gmail.com**
 
 - ⚡ Fun fact **1312**
 
